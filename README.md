@@ -2,4 +2,4 @@
 C developer, Windows user
 
 <3 Program Manager
-... and [the sequel](Freedom-Desktop/Program-Manager-II) :)
+... and [the sequel](https://freedom-desktop.github.io/progmgr/index.html) :)
