@@ -2,4 +2,4 @@
 C developer, Windows user
 
 <3 Program Manager
-... and [the sequel](https://freedom-desktop.github.io/progmgr/index.html) :)
+... and [the sequel](https://vortesys.github.io/progmgr/index.html) :)
